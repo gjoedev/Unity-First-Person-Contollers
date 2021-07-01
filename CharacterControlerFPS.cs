@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MyFPSContoller : MonoBehaviour
+public class CharacterControlerFPS : MonoBehaviour
 {
     public Camera Camera;
     public float Sensitivity;

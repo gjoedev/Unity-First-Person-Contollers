@@ -1,2 +1,5 @@
-To set up these, just attach the script to a player object, Prefferably a caupsle, and fill in some values.
-I will also include a .UNITYPACKAGE file so you can have the players I use
+## Unity First Person Controllers
+
+### Setup
+
+The easeist way is to drag in the unity package file, but You can attach one of the scripts to a player (prefferably a capsuel), and drag in the nessecary variables.
